@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Swapnil Ghodekar
 
-<!--
-**swapnilghodekar0123/swapnilghodekar0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Java Developer
 
-Here are some ideas to get you started:
+I am passionate about Java Backend Development and continuously improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Skills
+
+- Core Java
+- JDBC
+- Hibernate
+- SQL
+- HTML
+- CSS
+- JavaScript
+- React
+- Spring Boot (Learning)
+- Data Structures & Algorithms
+
+## 🚀 Projects
+
+- Gmail Project
+- Car Rental Project
+- Pet Shop Project
+- Myntra Clone
+
+## 📚 Currently Learning
+
+- Spring Framework
+- Spring Boot
+- Advanced Java
+- Java Interview Preparation
+
+## 🎯 Goal
+
+To become a Java Backend Developer and build scalable applications.
+
+## 📫 Contact
+
+Email: swapnilghodekar0123@gmail.com
+
+LinkedIn:
+www.linkedin.com/in/swapnil-ghodekar
+
+
